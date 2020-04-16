@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b9d1873-1941-4574-abf9-759dcb87de67" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="861ebb0c-1753-4903-8da6-09ac2fd928db" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\Mavencangku\repository" />
+        <option name="mavenHome" value="H:/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="H:\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1aZmG7Q3f6UDXPBNnXvAHoFkuBI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="F:/v前端框架vue.js+node.js/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringWebUnifiedResponseDemoApplication">
+    <configuration name="TestAtomicInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zoutao.web.entity.TestAtomicInteger" />
+      <module name="spring-web-unified-response-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zoutao.web.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringWebUnifiedResponseDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-web-unified-response-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zoutao.web.SpringWebUnifiedResponseDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestAtomicInteger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b9d1873-1941-4574-abf9-759dcb87de67" name="Default Changelist" comment="" />
+      <created>1586951391980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586951391980</updated>
+      <workItem from="1586951396419" duration="19842000" />
+    </task>
+    <task id="LOCAL-00001" summary="基于Spring AOP的Controller增强器实现的统一响应程序">
+      <created>1587046254723</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587046254724</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基于Spring AOP的Controller增强器实现的统一响应程序" />
+    <option name="LAST_COMMIT_MESSAGE" value="基于Spring AOP的Controller增强器实现的统一响应程序" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="0" key="CommitChangelistDialog2" timestamp="1587046252787">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="362" y="0" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1587046252787" />
+    <state x="330" y="84" key="DiffContextDialog" timestamp="1587046767900">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="330" y="84" key="DiffContextDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587046767900" />
+    <state x="1145" y="163" key="FileChooserDialogImpl" timestamp="1587047075508">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="1145" y="163" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1587047075508" />
+    <state x="550" y="323" width="579" height="358" key="Github.ShareDialog" timestamp="1587046902708">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="550" y="323" width="579" height="358" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1587046902708" />
+    <state width="1404" height="134" key="GridCell.Tab.0.bottom" timestamp="1587046202030">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202030" />
+    <state width="1404" height="134" key="GridCell.Tab.0.center" timestamp="1587046202030">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202030" />
+    <state width="1404" height="134" key="GridCell.Tab.0.left" timestamp="1587046202030">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202030" />
+    <state width="1404" height="134" key="GridCell.Tab.0.right" timestamp="1587046202030">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202030" />
+    <state width="1404" height="134" key="GridCell.Tab.1.bottom" timestamp="1587046202031">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202031" />
+    <state width="1404" height="134" key="GridCell.Tab.1.center" timestamp="1587046202030">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202030" />
+    <state width="1404" height="134" key="GridCell.Tab.1.left" timestamp="1587046202030">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202030" />
+    <state width="1404" height="134" key="GridCell.Tab.1.right" timestamp="1587046202031">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1404" height="134" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1587046202031" />
+    <state x="0" y="0" key="SettingsEditor" timestamp="1587046813221">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="0" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1587046813221" />
+    <state x="317" y="127" width="1581" height="786" key="Vcs.Push.Dialog.v2" timestamp="1587046789971">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="317" y="127" width="1581" height="786" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1587046789971" />
+  </component>
+</project>
